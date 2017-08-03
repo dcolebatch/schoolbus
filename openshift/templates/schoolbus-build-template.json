@@ -785,7 +785,7 @@
           "type": "Git",
           "git":
           {
-            "uri": "https://github.com/bcgov/Swagger-Editor.git"
+            "uri": "https://github.com/dcolebatch/Swagger-Editor.git"
           }
         },
         "strategy":
@@ -922,7 +922,7 @@
       "displayName": "Application Name",
       "description": "The name given to the application",
       "required": true,
-      "value": "schoolbus"
+      "value": "tran-schoolbus-tools"
     },
     {
       "name": "CLIENT_NAME",
@@ -971,7 +971,7 @@
       "displayName": "Source Repository",
       "description": "The source repository to use for the builds.",
       "required": true,
-      "value": "https://github.com/bcgov/schoolbus.git"
+      "value": "https://github.com/dcolebatch/schoolbus.git"
     },	
     {
       "name": "GIT_REFERENCE",
